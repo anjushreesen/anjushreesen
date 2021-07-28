@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 <a href="https://linktr.ee/Anjushree">
   <img src="https://th.bing.com/th/id/OIP.I97GZ-aGlDXGrhDcbM9yHAHaHa?w=215&h=215&c=7&o=5&pid=1.7" height="30px" width="30px">
 </a>
+   <br>
+   -Languages
+   <img src="https://p1.hiclipart.com/preview/742/401/98/alternative-python-icons-and-folder-icon-python-2-png-clipart.jpg>
+ </body>
+ </html>
