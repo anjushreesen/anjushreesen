@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 
 
      
-     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=synthwave)
+     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=synthwave&count_private=true)
+)
 
