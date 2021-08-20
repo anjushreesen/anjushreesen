@@ -13,11 +13,13 @@
 
 
 Skills:   C/JAVA/PYTHON HTML / CSS/BOOTSTRAP/JS/JQUERY
-                       <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif'                                width='20' height='20'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-                                  badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://github.com/pricing'><img                                                                            src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a>
-                       ![Profile views](https://gpvc.arturio.dev/anjushreesen)  
+
+ <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif'                                width='20' height='20'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-                                  badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://github.com/pricing'><img                                                                            src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a>
+                 
 
 
-
+   ![Profile views](https://gpvc.arturio.dev/anjushreesen)  
+   
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=synthwave&show_icons=true&count_private=true)  
 
    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anjushreesen)  
