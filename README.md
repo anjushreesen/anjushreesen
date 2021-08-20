@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 
      
-     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=synthwave&count_private=true)
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjushreesen&layout=compact)](https://github.com/anjushreesen/github-readme-stats)
+     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=gradient&count_private=true)
+   
 
      
      
