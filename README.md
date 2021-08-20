@@ -13,13 +13,10 @@
 
 
 Skills:   C/JAVA/PYTHON HTML / CSS/BOOTSTRAP/JS/JQUERY
+                       <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif'                                width='20' height='20'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-                                  badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://github.com/pricing'><img                                                                            src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a>
+                       ![Profile views](https://gpvc.arturio.dev/anjushreesen)  
 
 
-
-
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anjushreesen)  
-
-   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a> 
 
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=synthwave&show_icons=true&count_private=true)  
 
@@ -27,5 +24,4 @@ Skills:   C/JAVA/PYTHON HTML / CSS/BOOTSTRAP/JS/JQUERY
 
    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anjushreesen&theme=dark)  
 
-   ![Profile views](https://gpvc.arturio.dev/anjushreesen)  
-
+   
