@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
      
-     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=gradient&count_private=true)
+     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=Gradient&count_private=true)
    
 
      
