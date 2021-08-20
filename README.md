@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 
      
-     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=gruvbox)
+     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=synthwave)
 
