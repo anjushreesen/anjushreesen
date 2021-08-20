@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love binge watching classic romcoms and I dance out my stress frequently :)
 
 
-https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=radical)
 
