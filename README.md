@@ -25,7 +25,7 @@ Skills:   C/JAVA/PYTHON HTML / CSS/BOOTSTRAP/JS/JQUERY
 
    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anjushreesen)  
 
-   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anjushreesen)  
+   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anjushreesen&theme=dark)  
 
    ![Profile views](https://gpvc.arturio.dev/anjushreesen)  
 
