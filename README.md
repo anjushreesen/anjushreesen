@@ -1,17 +1,4 @@
-### Hi there 👋, my name is Anjushree Sen
-#### Frontend web developer|| UI/UX designer
-![Frontend web developer|| UI/UX designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-
-Skills:   C/JAVA/PYTHON HTML / CSS/BOOTSTRAP/JS/JQUERY
-
-
-
-
-
-![pic](https://user-images.githubusercontent.com/73659975/127394083-48892987-4e41-40b6-84eb-8c60ca76aed4.png)
-
-Hi there 👋
 
 
 Here are some ideas to get you started:
