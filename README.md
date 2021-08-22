@@ -9,11 +9,11 @@
 
 <p align="center">
 
-- 🔭 I’m currently working on Front end webdevelopement and UI/UX designs
-- 🌱 I’m currently learning AWS,React.js,Node.js, Data structure & Algorithm
-- 👯 I’m looking to collaborate on open source frontend web develepement projects and UI design projects
-- 💬 Ask me about ...python,c,java,css,javascript,html
-- ⚡ Fun fact: I love binge watching classic romcoms and I dance out my stress frequently :)
+ 🔭 I’m currently working on Front end webdevelopement and UI/UX designs
+ 🌱 I’m currently learning AWS,React.js,Node.js, Data structure & Algorithm
+ 👯 I’m looking to collaborate on open source frontend web develepement projects and UI design projects
+ 💬 Ask me about ...python,c,java,css,javascript,html
+ ⚡ Fun fact: I love binge watching classic romcoms and I dance out my stress frequently :)
 </p>
 
 
