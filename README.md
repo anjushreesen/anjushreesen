@@ -6,14 +6,6 @@
   
 </p>
 
-<h3  align="center">A passionate Software Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
-
-
-
-<h3  align="center">A passionate Software Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
-
-
-
 
 
 
