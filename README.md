@@ -1,6 +1,6 @@
 ![pic](https://media1.tenor.com/images/86489b28cf2316bb0d141809cc900f66/tenor.gif?itemid=17921729)
 
-### Hi there 👋, my name is Anjushree Sen
+### Hi👋, my name is Anjushree Sen
 #### Frontend web developer|| UI/UX designer
 
 
