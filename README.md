@@ -1,7 +1,12 @@
 ![pic](https://media1.tenor.com/images/86489b28cf2316bb0d141809cc900f66/tenor.gif?itemid=17921729)
 
-### Hi👋, my name is Anjushree Sen
-#### Frontend web developer|| UI/UX designer
+<h2 align="center"> Hi👋, my name is Anjushree Sen</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=FAFF00&size=24&center=true&vCenter=true&lines=Hi%2C+Front+end+web+developer+!!;UI+/+UX+designer+...;Android+and+web+developement+enthusiast%2C..;Strive+Consistent.+to+be+a+better+version+of+yourself+everyday+!!"></a>
+</p>
+
+
+
 
 
 - 🔭 I’m currently working on Front end webdevelopement and UI/UX designs
