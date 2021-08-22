@@ -28,7 +28,7 @@
 </p>
 
   
-   <img src="https://gpvc.arturio.dev/anjushreesen">
+   <img align="center" src="https://gpvc.arturio.dev/anjushreesen">
  
    
    
