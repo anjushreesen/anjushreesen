@@ -29,15 +29,13 @@
 
   
   ![Profile views](https://gpvc.arturio.dev/anjushreesen) 
-  </p>
    
-   <p align="center">
+   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=synthwave&show_icons=true&count_private=true)  
-</p>
-  <p align="center">
-    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anjushreesen)  
-</p>
-  <p align="center">
-    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anjushreesen&theme=dark)  
 
-   </p>
+  
+   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anjushreesen)  
+
+   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anjushreesen&theme=dark)  
+
+   
