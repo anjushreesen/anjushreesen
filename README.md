@@ -31,12 +31,14 @@
    <img align="center" src="https://gpvc.arturio.dev/anjushreesen">
  
    
-   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=synthwave&show_icons=true&count_private=true)  
+  <p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=synthwave&show_icons=true&count_private=true"> 
 
   
-   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anjushreesen)  
+   <p align="center">
+     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=anjushreesen"> 
 
-   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anjushreesen&theme=dark)  
+   <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjushreesen&theme=dark"> 
 
    
