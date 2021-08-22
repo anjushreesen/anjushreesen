@@ -1,4 +1,4 @@
-![pic](https://user-images.githubusercontent.com/73659975/127394083-48892987-4e41-40b6-84eb-8c60ca76aed4.png)
+![pic](https://th.bing.com/th/id/OIP.hkibKM8jFrsNFBgJzJAPZgHaEI?pid=ImgDet&rs=1)
 
 ### Hi there 👋, my name is Anjushree Sen
 #### Frontend web developer|| UI/UX designer
