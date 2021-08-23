@@ -4,7 +4,7 @@
 
 <h2 align="center"> Hi👋, my name is Anjushree Sen</h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=FF33CCsize=24&center=true&vCenter=true&lines=+Front+end+web+developer;UI+/+UX+designer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=6633CCsize=24&center=true&vCenter=true&lines=+Front+end+web+developer;UI+/+UX+designer"></a>
   
 </p>
 FAFF00&
