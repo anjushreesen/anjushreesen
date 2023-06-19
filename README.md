@@ -31,16 +31,16 @@
 
   <p align="center">
    <img align="center" src="https://gpvc.arturio.dev/anjushreesen">
- 
+ </p>
    
   <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=synthwave&show_icons=true&count_private=true"> 
-
+  </p>
   
    <p align="center">
      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=anjushreesen"> 
-
+ </p>
    <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjushreesen&theme=dark"> 
 
-   
+    </p>
