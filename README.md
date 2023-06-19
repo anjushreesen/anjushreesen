@@ -27,9 +27,11 @@
   Skills:   JAVA/C++/HTML/CSS/BOOTSTRAP/JS/JQUERY/REACT.JS/POWERBI/MYSQL
 </p>
 
+<p align="center">
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=anjushreesen&label=Profile%20Views&color=0&pretty=false" />
 </a>
+</p>
   
   <p align="center">
   <a href='https://archiveprogram.github.com/'>
