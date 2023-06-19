@@ -37,7 +37,7 @@
 
 
   <p align="center">
-   <img align="center" src="https://gpvc.arturio.dev/anjushreesen">
+   <img align="center" src="https://gpvc.arturio.dev/anjushreesen"/>
   </p>
    
   <p align="center"> 
