@@ -4,7 +4,7 @@
 
 <h2 align="center"> Hi👋, my name is Anjushree Sen</h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=6633CCsize=24&center=true&vCenter=true&lines=+Front+end+web+developer;UI+/+UX+designer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=6633CCsize=24&center=true&vCenter=true&lines=+Front+end+web+developer;Data+Analyst"></a>
   
 </p>
 
@@ -12,15 +12,14 @@
 <p align="center">
 
  🔭 I’m currently working on Front end webdevelopement and UI/UX designs
- 🌱 I’m currently learning AWS,React.js,Node.js, Data structure & Algorithm
- 👯 I’m looking to collaborate on open source frontend web develepement projects and UI design projects
- 💬 Ask me about ...python,c,java,css,javascript,html
+ 🌱 I’m currently learning AWS,Hadoop and Data structure & Algorithm
+ 💬 Ask me about ...java,css,javascript,html,react.js,sql,mongodb.
  ⚡ Fun fact: I love binge watching classic romcoms and I dance out my stress frequently :)
 </p>
 
 
 <p align="center">
-  Skills:   C/JAVA/PYTHON HTML / CSS/BOOTSTRAP/JS/JQUERY
+  Skills:   JAVA/C++/HTML/CSS/BOOTSTRAP/JS/JQUERY/REACT.JS/POWERBI/MYSQL
   </p>
 
  <p align="center">
