@@ -12,18 +12,19 @@
 <p align="center">
 
  🔭 I’m currently working on Front end webdevelopement and UI/UX designs
- <br>
+ </br>
  🌱 I’m currently learning AWS,Hadoop and Data structure & Algorithm
- <br>
+ </br>
  💬 Ask me about ...java,css,javascript,html,react.js,sql,mongodb.
- <br>
+ </br>
  ⚡ Fun fact: I love binge watching classic romcoms and I dance out my stress frequently :)
+
 </p>
 
 
 <p align="center">
   Skills:   JAVA/C++/HTML/CSS/BOOTSTRAP/JS/JQUERY/REACT.JS/POWERBI/MYSQL
- 
+</p>
 
  <p align="center">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
