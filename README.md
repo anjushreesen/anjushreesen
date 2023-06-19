@@ -27,7 +27,10 @@
   Skills:   JAVA/C++/HTML/CSS/BOOTSTRAP/JS/JQUERY/REACT.JS/POWERBI/MYSQL
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=anjushreesen&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=anjushreesen&label=Profile%20Views&color=0&pretty=false" />
+</a>
+  
   <p align="center">
   <a href='https://archiveprogram.github.com/'>
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
