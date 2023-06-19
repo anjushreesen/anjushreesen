@@ -42,8 +42,7 @@
   </p>
    
   <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api? 
-    username=anjushreesen&theme=synthwave&show_icons=true&count_private=true"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api? username=anjushreesen&theme=synthwave&show_icons=true&count_private=true"> 
   </p>
   
    <p align="center">
