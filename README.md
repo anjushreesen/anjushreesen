@@ -33,12 +33,13 @@
 </a>
 </p>
 
-<p align="center">
+
  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anjushree&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anjushreesen&theme=holi&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anjushreesen&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjushreesen&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
+
+
   <p align="center">
   <a href='https://archiveprogram.github.com/'>
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'/>
