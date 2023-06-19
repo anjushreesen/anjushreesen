@@ -10,7 +10,6 @@
 
 
 <p align="center">
-
  🔭 I’m currently working on Front end webdevelopement and UI/UX designs
  🌱 I’m currently learning AWS,Hadoop and Data structure & Algorithm
  💬 Ask me about ...java,css,javascript,html,react.js,sql,mongodb.
