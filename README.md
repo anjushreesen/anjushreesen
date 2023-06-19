@@ -12,13 +12,9 @@
 <p align="center">
 
  🔭 I’m currently working on Front end webdevelopement and UI/UX designs
- </br>
  🌱 I’m currently learning AWS,Hadoop and Data structure & Algorithm
- </br>
  💬 Ask me about ...java,css,javascript,html,react.js,sql,mongodb.
- </br>
  ⚡ Fun fact: I love binge watching classic romcoms and I dance out my stress frequently :)
-
 </p>
 
 
