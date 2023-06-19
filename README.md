@@ -33,10 +33,10 @@
 </a>
 </p>
 
-  # 📊 GitHub Stats:
+  #GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anjushreesen&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anjushreesen&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjushreesen&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anjushreesen&theme=midnight-blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjushreesen&theme=midnight-blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   <p align="center">
   <a href='https://archiveprogram.github.com/'>
